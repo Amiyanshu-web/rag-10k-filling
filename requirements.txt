@@ -1,0 +1,11 @@
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-core>=0.2.32
+langchain-docling>=0.1.0
+langchain-text-splitters>=0.2.0
+sentence-transformers>=3.0.0
+langchain-cohere>=0.1.0
+cohere>=5.5.8
+faiss-cpu>=1.8.0
+fastapi>=0.104.0
+uvicorn>=0.24.0

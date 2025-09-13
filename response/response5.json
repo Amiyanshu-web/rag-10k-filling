@@ -1,0 +1,102 @@
+{
+    "query": "Compare AI investments mentioned by all three companies in their 2024 10-Ks",
+    "answer": "All three companies, Google, Microsoft, and NVIDIA, have made significant investments in AI and plan to continue doing so. \n\nGoogle has been investing in building AI capabilities into new and existing products and services, such as Google Cloud, Google Workspace, Google Search, and Google Photos. They have also been investing in large language models and believe AI can solve societal, scientific, and engineering challenges. \n\nMicrosoft is committed to making artificial intelligence available broadly and responsibly. They are infusing AI capabilities into their consumer and commercial offerings and have various engineering groups focused on AI, such as Cloud and AI, Microsoft AI, and Technology and Research. \n\nNVIDIA has been leveraging its GPU architecture to create platforms for AI solutions, scientific computing, data science, and more. They have launched various AI inference platforms and software offerings and continue to invest in their two operating segments: Compute & Networking and Graphics. \n\nAll three companies recognize the transformative potential of AI and are making significant investments to incorporate it into their products and services.",
+    "reasoning": "The answer is based on the provided context from the 10-K filings of Google, Microsoft, and NVIDIA, specifically focusing on mentions of AI investments and future plans related to artificial intelligence. The answer summarizes each company's AI-related investments and highlights their ongoing commitment to this technology.",
+    "sub_queries": [
+        "Google AI investments 2024",
+        "Microsoft AI investments 2024",
+        "NVIDIA AI investments 2024"
+    ],
+    "sources": [
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "Enable Organizations and Developers to Innovate on Google Cloud\n\nAI  is  a  major  technology  shift  for  enterprises. Globally,  businesses  from  startups  to  large  enterprises,  and  the public  sector  are  thinking  about  how  to  drive  transformation.",
+            "page": 12
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "We have invested and expect to continue to invest in new businesses, products, services, and technologies in a wide range of industries beyond online advertising. The investments that we are making across our businesses, such\n\n11. Table of Contents\n\nAlphabet Inc. as  building AI  capabilities  into  new  and  existing  products  and  services,  reflect  our  ongoing  efforts  to  innovate  and provide products and services that are helpful to users, advertisers, publishers, customers, and conten",
+            "page": 38
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2022",
+            "excerpt": "We continue to look toward the future and to invest for the long term within each of our segments. As we said in the original founders' letter, we will not shy away from high-risk, high-reward projects that we believe in, as they are the key to our long-term success. The power of AI\n\nWe  believe  that  AI  is  a  foundational  and  transformational  technology  that  will  provide  compelling  and  helpful benefits to people and society through its capacity to assist, complement, empower, and in",
+            "page": 13
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "Data and Analytics: provides a variety of different types of databases - relational, key-value, and in-memory - to store and manage data for different types of applications and deliver data to AI agents. Our data platform also  unifies  data  lakes,  data  warehouses,  data  governance,  and  advanced  machine  learning  into  a  single platform that helps users analyze data using AI models across any cloud. Applications: offers a broad applications portfolio, including Gemini for Google Cloud a",
+            "page": 23
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2023",
+            "excerpt": "We are focused on building an even more helpful Google for everyone, and we aspire to give everyone the tools they need to increase their knowledge, health, happiness, and success. Google Search helps people find information and  make  sense  of  the  world  in  more  natural  and  intuitive  ways,  with  trillions  of  searches  on  Google  every  year. YouTube provides people with entertainment, information, and opportunities to learn something new. Google Assistant offers  the  best  way  to ",
+            "page": 8
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2023",
+            "excerpt": "3\n\nPART I Item 1\n\nEmbracing Our Future\n\nMicrosoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools, powered by artificial intelligence ('AI'), that deliver better, faster, and more effective solutions to support small and large business competitiveness, improve educational and health outcomes, gr",
+            "page": 6
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2023",
+            "excerpt": "OVERVIEW\n\nMicrosoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools, powered by artificial intelligence ('AI'), that deliver better, faster, and more effective solutions to support small and large business competitiveness, improve educational and health outcomes, grow public-sector efficiency, a",
+            "page": 105
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "We have invested and expect to continue to invest in new businesses, products, services, and technologies in a wide range of industries beyond online advertising. The investments that we are making across our businesses, such\n\n11. Table of Contents\n\nAlphabet Inc. as  building AI  capabilities  into  new  and  existing  products  and  services,  reflect  our  ongoing  efforts  to  innovate  and provide products and services that are helpful to users, advertisers, publishers, customers, and conten",
+            "page": 38
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2024",
+            "excerpt": "As of July 25, 2024, there were 7,433,038,381 shares of common stock outstanding. DOCUMENTS INCORPORATED BY REFERENCE\n\nPortions  of  the  definitive  Proxy  Statement  to  be  delivered  to  shareholders  in  connection  with  the  Annual  Meeting  of  Shareholders  to  be  held  on  December  10,  2024  are incorporated by reference into Part III. OR\n\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the Transition Period From                  to\n\nC",
+            "page": 4
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2024",
+            "excerpt": "Extended  disruptions  at  these  suppliers  could  impact  our  ability  to manufacture devices on time to meet consumer demand. RESEARCH AND DEVELOPMENT\n\nProduct and Service Development, and Intellectual Property\n\nWe develop most of our products and services internally through the following engineering groups. Cloud and AI -  focuses on making IT professionals, developers, partners, independent software vendors, and their systems more productive and efficient through development of Azure AI pl",
+            "page": 30
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2022",
+            "excerpt": "The increase reflects operating cash flow generation and $5.00 billion of debt issuance proceeds. We paid $399 million in quarterly cash dividends in fiscal year 2022. Market Platform Highlights\n\nAt our November 2021 GPU Technology Conference, we announced general availability of NVIDIA Omniverse Enterprise; 65 new and updated software  development  kits,  including  NVIDIA  Riva,  Modulus,  ReOpt,  Morpheus,  cuNumeric,  and  Clara  Holoscan;  NVIDIA  Quantum-2  400Gbps switch and end-to-end ne",
+            "page": 63
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2022",
+            "excerpt": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\n\nThe following discussion and analysis of our financial condition and results of operations should be read in conjunction with 'Item 1A. Risk Factors', our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. Overview\n\nOur Company ",
+            "page": 58
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2023",
+            "excerpt": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\n\nThe following discussion and analysis of our financial  condition  and  results  of  operations  should  be  read  in  conjunction  with  'Item  1A. Risk Factors',  our  Consolidated  Financial  Statements  and  related  Notes  thereto,  as  well  as  other  cautionary  statements  and  risks  described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common",
+            "page": 66
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. Our two operating segments are \"Compute & Networking\" and \"Graphics.\" Refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. Headquartered in Santa Clara, California, NVIDIA was incorporated in California in ",
+            "page": 99
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "Fiscal year 2023 also included a $1.4 billion acquisition termination charge related to the proposed Arm transaction. Market Platform Highlights\n\nData Center revenue for fiscal year 2024 was $47.5 billion, up 217% from fiscal year 2023. In Data Center, we launched AI inference platforms that combine our full-stack inference software with NVIDIA Ada, NVIDIA Hopper and NVIDIA Grace Hopper processors optimized for generative AI, LLMs and other AI workloads. We introduced NVIDIA DGX Cloud and AI Fou",
+            "page": 106
+        }
+    ]
+}

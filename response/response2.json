@@ -1,0 +1,71 @@
+{
+    "query": "How did NVIDIA’s data center revenue grow from 2022 to 2023?",
+    "answer": "NVIDIA's data center revenue grew by 217% from 2022 to 2023.",
+    "reasoning": "According to the provided information, NVIDIA's data center revenue for fiscal year 2023 was $15.01 billion, and for fiscal year 2024, it was $47.5 billion, representing a 217% increase year-over-year. This significant growth can be attributed to the company's successful launches, such as the NVIDIA Hopper GPU architecture and AI inference platforms.",
+    "sub_queries": [
+        "NVIDIA data center revenue 2022",
+        "NVIDIA data center revenue 2023"
+    ],
+    "sources": [
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "These  platforms  incorporate  processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive. Revenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago. Data Center revenue for fiscal year 2024 was up 217%. Strong demand was driven by enterprise software and consumer internet applications, and multiple industry v",
+            "page": 105
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2023",
+            "excerpt": "Market Platform Highlights\n\nData Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022. The strong growth in Data Center revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking portfolio. In Data Center, we announced the NVIDIA Hopper GPU architecture and began ramping the first products based on the architecture, including the NVIDIA H100 Tensor Core GPU. The NVIDIA OVX server reference design launched for digita",
+            "page": 76
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "Fiscal year 2023 also included a $1.4 billion acquisition termination charge related to the proposed Arm transaction. Market Platform Highlights\n\nData Center revenue for fiscal year 2024 was $47.5 billion, up 217% from fiscal year 2023. In Data Center, we launched AI inference platforms that combine our full-stack inference software with NVIDIA Ada, NVIDIA Hopper and NVIDIA Grace Hopper processors optimized for generative AI, LLMs and other AI workloads. We introduced NVIDIA DGX Cloud and AI Fou",
+            "page": 106
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. Our two operating segments are \"Compute & Networking\" and \"Graphics.\" Refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. Headquartered in Santa Clara, California, NVIDIA was incorporated in California in ",
+            "page": 99
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2023",
+            "excerpt": "Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive. Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago. 37\n\nTable of Contents\n\nData Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and ou",
+            "page": 72
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "These  platforms  incorporate  processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive. Revenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago. Data Center revenue for fiscal year 2024 was up 217%. Strong demand was driven by enterprise software and consumer internet applications, and multiple industry v",
+            "page": 105
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. Our two operating segments are \"Compute & Networking\" and \"Graphics.\" Refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. Headquartered in Santa Clara, California, NVIDIA was incorporated in California in ",
+            "page": 99
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2024",
+            "excerpt": "Fiscal year 2023 also included a $1.4 billion acquisition termination charge related to the proposed Arm transaction. Market Platform Highlights\n\nData Center revenue for fiscal year 2024 was $47.5 billion, up 217% from fiscal year 2023. In Data Center, we launched AI inference platforms that combine our full-stack inference software with NVIDIA Ada, NVIDIA Hopper and NVIDIA Grace Hopper processors optimized for generative AI, LLMs and other AI workloads. We introduced NVIDIA DGX Cloud and AI Fou",
+            "page": 106
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2023",
+            "excerpt": "Market Platform Highlights\n\nData Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022. The strong growth in Data Center revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking portfolio. In Data Center, we announced the NVIDIA Hopper GPU architecture and began ramping the first products based on the architecture, including the NVIDIA H100 Tensor Core GPU. The NVIDIA OVX server reference design launched for digita",
+            "page": 76
+        },
+        {
+            "company": "DATA\\NVIDIA",
+            "year": "2023",
+            "excerpt": "Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive. Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago. 37\n\nTable of Contents\n\nData Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and ou",
+            "page": 72
+        }
+    ]
+}

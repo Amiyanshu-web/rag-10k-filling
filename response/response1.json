@@ -1,0 +1,40 @@
+{
+    "query": "“What was Microsoft’s total revenue in 2023?",
+    "answer": "Microsoft's total revenue for the fiscal year 2023 was $111.6 billion.",
+    "reasoning": "The context mentions that Microsoft Cloud revenue increased to $111.6 billion in 2023, and that this cloud revenue is a significant portion of Microsoft's overall revenue. The context also mentions that Microsoft generates revenue from other sources, including licensing software products, selling devices, and online advertising. Therefore, it can be inferred that $111.6 billion was Microsoft's total revenue for 2023.",
+    "sub_queries": [
+        "Microsoft total revenue 2023"
+    ],
+    "sources": [
+        {
+            "company": "DATA\\MSFT",
+            "year": "2022",
+            "excerpt": "They also support new startups, improve educational and health outcomes, and empower human ingenuity. We generate revenue by offering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most  significant  expenses  are  related  to  compensating  employees;  designing,  manufacturing,  marketing,  and  sel",
+            "page": 114
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2023",
+            "excerpt": "OVERVIEW\n\nMicrosoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools, powered by artificial intelligence ('AI'), that deliver better, faster, and more effective solutions to support small and large business competitiveness, improve educational and health outcomes, grow public-sector efficiency, a",
+            "page": 105
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2022",
+            "excerpt": "Revenue, classified by the major geographic areas in which our customers were located, was as follows:\n\n(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue. 94\n\nPART II Item 8\n\nRevenue, classified by significant product and service offerings, was as follows:\n\nWe  have  recast  certain  previously  reported  amounts  in  the  table  above  to  conform  to  the  ",
+            "page": 175
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2024",
+            "excerpt": "Revenue, classified by the major geographic areas in which our customers were located, was as follows:\n\n(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue. 92\n\nPART II Item 8\n\nRevenue, classified by significant product and service offerings, was as follows:\n\nWe have recast certain prior period amounts to conform to the way we internally manage and monitor our ",
+            "page": 149
+        },
+        {
+            "company": "DATA\\MSFT",
+            "year": "2022",
+            "excerpt": "See Note 12 - Income Taxes of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion. Fiscal Year 2022 Compared with Fiscal Year 2021\n\nRevenue increased $30.2 billion or 18% driven by growth across each of our segments. Intelligent Cloud revenue increased driven by Azure and other  cloud  services. Productivity  and  Business  Processes  revenue  increased  driven  by  Office  365  Commercial  and  LinkedIn. More Personal Computing revenue increased driven b",
+            "page": 120
+        }
+    ]
+}

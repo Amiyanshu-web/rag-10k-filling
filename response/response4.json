@@ -1,0 +1,71 @@
+{
+    "query": "What percentage of Google’s revenue came from cloud in 2023?",
+    "answer": "Google Cloud's revenue in 2023 was $33,088 million, which was about 10.7% of Google's total revenue of $307,394 million.",
+    "reasoning": "In the context provided, it is mentioned that Google Cloud's revenue in 2023 was $33,088 million. To calculate the percentage, I divided this number by Google's total revenue for the same year, which is given as $307,394 million. The calculation is as follows: \n$33,088 / $307,394 * 100 = 10.73%\nSo, Google Cloud's revenue in 2023 was approximately 10.7% of Google's total revenue.",
+    "sub_queries": [
+        "Google revenue from cloud 2023",
+        "Google total revenue 2023"
+    ],
+    "sources": [
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2023",
+            "excerpt": "For  additional  information relating to our workforce reduction and other initiatives, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. For additional information relating to our segments, see Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Google Services\n\nGoogle Services operating income increased $13.2 billion from 2022 to 2023. The increase in operating income ",
+            "page": 99
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "tax positions will materially change in the next 12 months. Note 15. Information about Segments and Geographic Areas\n\nWe report our segment results as Google Services, Google Cloud, and Other Bets:\n\nGoogle  Services  includes  products  and  services  such  as  ads,  Android,  Chrome,  devices,  Google  Maps, Google  Play,  Search,  and  YouTube. Google  Services  generates  revenues  primarily  from  advertising;  fees received for consumer subscription-based products such as YouTube TV, YouTub",
+            "page": 165
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "|    |                                                      | Year Ended December 31,.2022   | Year Ended December 31,.2023   | Year Ended December 31,.2024   |\n|---:|:-----------------------------------------------------|:-------------------------------|:-------------------------------|:-------------------------------|\n|  0 | Revenues:                                            |                                |                                |                                |\n|  1 | Google Ser",
+            "page": null
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2023",
+            "excerpt": "Note 2. Revenues\n\nDisaggregated Revenues\n\nThe following table presents revenues disaggregated by type (in millions):\n\nNo individual customer or groups of affiliated customers represented more than 10% of our revenues in 2021, 2022, or 2023. The following table presents revenues disaggregated by geography, based on the addresses of our customers (in millions):\n\n(1) Regions represent Europe, the Middle East, and Africa (EMEA); Asia-Pacific (APAC); and Canada and Latin America (\"Other Americas\"). R",
+            "page": 135
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2022",
+            "excerpt": "Revenues\n\nDisaggregated Revenues\n\nThe following table presents revenues disaggregated by type (in millions):\n\nNo individual customer or groups of affiliated customers represented more than 10% of our revenues in 2020, 2021, or 2022. The following table presents revenues disaggregated by geography, based on the addresses of our customers (in millions):\n\nRegions represent Europe, the Middle East, and Africa (EMEA); Asia-Pacific (APAC); and Canada and Latin America (\"Other Americas\"). (1)\n\nRevenue ",
+            "page": 121
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2023",
+            "excerpt": "Capital expenditures, which primarily reflected investments in technical infrastructure, were $32.3 billion for the year ended December 31, 2023. As of December 31, 2023, we had 182,502 employees. Financial Results\n\nRevenues\n\nThe following table presents revenues by type (in millions):\n\nGoogle Services\n\nGoogle advertising revenues\n\nGoogle Search & other\n\nGoogle Search & other revenues increased $12.6 billion from 2022 to 2023. The overall growth was driven by interrelated factors including incre",
+            "page": 92
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "Executive Overview\n\nThe following table summarizes our consolidated financial results (in millions, except for per share information and percentages):\n\n(1) See \"Use of Non-GAAP Constant Currency Information\" below for details relating to our use of constant currency information. (2) For additional information on the calculation of diluted EPS, see Note 12 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Revenues were $350.0 billion, an incr",
+            "page": 85
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "35. Table of Contents\n\nAlphabet Inc. Financial Results\n\nRevenues\n\nThe following table presents revenues by type (in millions):\n\nGoogle Services\n\nGoogle advertising revenues\n\nGoogle Search & other\n\nGoogle Search & other revenues increased $23.1 billion from 2023 to 2024. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and improvements we have made in ad fo",
+            "page": 90
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2024",
+            "excerpt": "The following table presents segment operating income (loss) (in millions). (1) In addition to the costs included in Alphabet-level activities, hedging gains (losses) related to revenue were $236 million and $211  million  in  2023  and  2024,  respectively. For  the  years  ended  December  31,  2023  and  2024, Alphabet-level  activities included substantially all of the charges related to employee severance and our office space charges. 39. Table of Contents\n\nAlphabet Inc. Google Services\n\nGo",
+            "page": 92
+        },
+        {
+            "company": "DATA\\GOOGLE",
+            "year": "2023",
+            "excerpt": "35. Table of Contents\n\nAlphabet Inc. Monetization Metrics\n\nThe following table presents changes in monetization metrics for Google Search & other revenues (paid clicks and cost-per-click) and Google Network revenues (impressions and cost-per-impression), expressed as a percentage, from 2022 to 2023:\n\nChanges  in  paid  clicks  and  impressions  are  driven  by  a  number  of  interrelated  factors,  including  changes  in advertiser  spending;  ongoing  product  and  policy  changes;  and,  as  ",
+            "page": 93
+        }
+    ]
+}
